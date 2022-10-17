@@ -4,7 +4,7 @@ var things =[ ["K2","Mount Everest","Denali"],
               ["Pakistan", "India", "Afghanistan"],
               ["Urdu", "French","English"]
             ]
-// Single diemnsional list
+// Single dimensional list
 var mountains =  ["K2","Mount Everest","Denali"]
 var rivers = ["Ravi", "Sindh" ,"Jehlum"]
 var countries = ["Pakistan", "India", "Afghanistan"]
